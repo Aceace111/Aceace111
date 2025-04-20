@@ -35,6 +35,25 @@
 
 ---
 
+<details>
+<summary>💻 Terminal Challenge</summary>
+
+You are in a terminal. Your mission: hack the mainframe.
+
+```bash
+> login root
+Password: *********
+
+> access mainframe
+Access denied.
+
+> sudo access mainframe
+Access granted.
+
+> run script.sh
+🔥 BOOM! You've hacked the system. Mission accomplished. 😎
+
+
 ## 📂 Featured Projects
 
 - 🔧 [Doctor Appointment Booking System](https://github.com/Aceace111/project-name)  
