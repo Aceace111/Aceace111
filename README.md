@@ -1,29 +1,27 @@
-...
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
----
-
-## 🧪 Hacker Mini Game (for fun)
-
 <details>
-<summary>💻 Terminal Challenge – Click to play</summary>
+<summary>🎲 Guess The Number (1-5)</summary>
 
-You are inside a virtual terminal.  
-Your mission: hack into the secure system 🔐
+🤔 I'm thinking of a number...  
+Can you guess it?
 
-```bash
-> login root
-Password: *********
+<details><summary>Option 1</summary>
+❌ Nope, try again!
+</details>
 
-> access mainframe
-Access denied.
+<details><summary>Option 2</summary>
+✅ 🎉 You got it! You're a genius!
+</details>
 
-> sudo access mainframe
-Access granted.
+<details><summary>Option 3</summary>
+❌ So close, but not it!
+</details>
 
-> run script.sh
-🔥 BOOM! You've hacked the system. Mission accomplished. 😎
+<details><summary>Option 4</summary>
+❌ Nah, wrong number.
+</details>
+
+<details><summary>Option 5</summary>
+❌ Wrong! Try harder 😄
+</details>
+
+</details>
