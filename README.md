@@ -8,7 +8,6 @@
 
 ## 🧠 About Me
 
-- 👨‍🎓 Student at 1337 coding school, diving deep into the world of programming.
 - 🔥 Passionate about cybersecurity, hacking, and building real-world applications.
 - 💻 Currently learning **C** and building my skills in **Fullstack Web Development**.
 - 🛠️ Working on a **SaaS appointment booking platform for doctors**.
